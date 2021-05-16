@@ -1,0 +1,6 @@
+// COMANDOS PARA LISTAR DIRECTORIOS
+ls = Lista los directorios
+ls -la = Muestra todo los archivos, incluyendo los ocultos
+ls -lS = Ordena los documentos y directorios por tamaño
+ls -lSh = Muestra el tamaño de los archivos y directorios
+ls -lr = Muestra los archivos y directorios de reversa
